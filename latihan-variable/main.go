@@ -10,8 +10,8 @@ func main() {
 	city := "Bandung"
 	year := 2025
 
-	fmt.Println("Nama : ", nama)
-	fmt.Println("Umur : ", umur)
-	fmt.Println("City : ", city)
-	fmt.Println("Year : ", year)
+	fmt.Println("Nama :", nama)
+	fmt.Println("Umur :", umur)
+	fmt.Println("City :", city)
+	fmt.Println("Year :", year)
 }
